@@ -1,0 +1,1641 @@
+
+  C-CDA R2.1 Patient Record: Aaron697 Stiedemann542
+    
+      
+        378 Krajcik LodgeWestfordMassachusetts
+        
+          Aaron697Stiedemann542
+          
+    
+      
+        https://github.com/synthetichealth/syntheahttps://github.com/synthetichealth/synthea
+        PCP218528
+          35 A VILLAGE SQCHELMSFORDMA01824-2712
+    
+      
+        PCP218528
+          35 A VILLAGE SQCHELMSFORDMA01824-2712
+    
+      
+        
+    
+
+  
+  
+    AllergiesThere are no current allergies at the time of this document's creation.
+  
+  
+	Medications
+  
+    
+      
+        StartStopDescriptionCode
+        
+          2010-07-27T13:11:44-04:002010-08-03T13:11:44-04:00Acetaminophen 325 MG Oral TabletRxNorm 313782
+          2012-01-26T12:11:44-05:002012-02-02T12:11:44-05:00Acetaminophen 325 MG Oral TabletRxNorm 313782
+          2012-07-20T13:11:44-04:002019-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2013-07-20T13:11:44-04:002014-07-20T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2014-07-20T13:11:44-04:002015-07-20T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2015-07-20T13:11:44-04:002016-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2016-07-19T13:11:44-04:002017-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2017-07-19T13:11:44-04:002018-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2018-07-19T13:11:44-04:002019-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          2019-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
+          Acetaminophen 325 MG Oral Tablet
+          Acetaminophen 325 MG Oral Tablet
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+          Simvistatin 10 MG
+    Diagnostic Results
+        StartStopDescriptionCode
+          2010-01-29T12:11:44-05:00Basic Metabolic PanelLOINC 51990-0
+          2010-06-18T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2010-08-06T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2011-06-24T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2011-06-24T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2012-06-29T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2012-06-29T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2012-06-29T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2013-07-05T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2013-07-05T13:11:44-04:00Complete blood count (hemogram) panel - Blood by Automated countLOINC 58410-2
+          2013-07-20T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2013-07-20T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2014-07-11T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2014-07-11T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2014-07-20T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2014-07-20T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2015-07-17T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2015-07-20T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2015-07-20T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2016-07-19T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2016-07-19T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2016-07-22T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2017-07-19T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2017-07-19T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2017-07-28T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2017-07-28T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2018-07-19T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2018-07-19T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2018-08-03T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+          2018-08-03T13:11:44-04:00Complete blood count (hemogram) panel - Blood by Automated countLOINC 58410-2
+          2019-07-19T13:11:44-04:00Comprehensive metabolic 2000 panel - Serum or PlasmaLOINC 24323-8
+          2019-07-19T13:11:44-04:00Lipid PanelLOINC 57698-3
+          2019-08-09T13:11:44-04:00Basic Metabolic PanelLOINC 51990-0
+     Problems
+        StartStopDescriptionCode
+          1974-06-07T13:11:44-04:00PrediabetesSNOMED-CT 15777000
+          1983-06-17T13:11:44-04:00Anemia (disorder)SNOMED-CT 271737000
+          2010-01-23T12:11:44-05:002010-01-30T12:11:44-05:00Viral sinusitis (disorder)SNOMED-CT 444814009
+          2010-07-27T13:11:44-04:002010-08-03T13:11:44-04:00Acute bronchitis (disorder)SNOMED-CT 10509002
+          2012-01-26T12:11:44-05:002012-02-02T12:11:44-05:00Acute bronchitis (disorder)SNOMED-CT 10509002
+          2012-06-29T13:11:44-04:00HyperlipidemiaSNOMED-CT 55822004
+          2013-04-27T13:11:44-04:002013-05-27T13:11:44-04:00Injury of tendon of the rotator cuff of shoulderSNOMED-CT 307731004
+     Surgeries
+        StartStopDescriptionCode
+          2010-06-18T13:11:44-04:002010-06-18T13:26:44-04:00Medication Reconciliation (procedure)SNOMED-CT 430193006
+          2012-01-26T12:11:44-05:002012-01-26T12:22:44-05:00Sputum examination (procedure)SNOMED-CT 269911007
+          2012-06-29T13:11:44-04:002012-06-29T13:26:44-04:00Medication Reconciliation (procedure)SNOMED-CT 430193006
+    Encounters
+        StartStopDescriptionCode
+          1974-06-07T13:11:44-04:001974-06-07T13:41:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          1983-06-17T13:11:44-04:001983-06-17T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2010-01-29T12:11:44-05:002010-08-06T13:11:44-04:00Encounter for check up (procedure)SNOMED-CT 185349003
+          2010-01-23T12:11:44-05:002010-01-23T12:26:44-05:00Encounter for symptomSNOMED-CT 185345009
+          2010-06-18T13:11:44-04:002010-06-18T13:41:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2010-07-27T13:11:44-04:002010-07-27T13:26:44-04:00Encounter for symptomSNOMED-CT 185345009
+          2010-08-06T13:11:44-04:002010-08-06T13:26:44-04:00Encounter for check up (procedure)SNOMED-CT 185349003
+          2011-06-24T13:11:44-04:002011-06-24T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2012-01-26T12:11:44-05:002012-01-26T12:37:44-05:00Encounter for symptomSNOMED-CT 185345009
+          2012-02-03T12:11:44-05:002012-02-03T12:26:44-05:00Urgent care clinic (procedure)SNOMED-CT 702927004
+          2012-06-29T13:11:44-04:002012-06-29T13:41:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2012-07-20T13:11:44-04:002012-07-20T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2013-04-27T13:11:44-04:002013-04-27T13:26:44-04:00Encounter for problemSNOMED-CT 185347001
+          2013-05-27T13:11:44-04:002013-05-27T13:26:44-04:00Encounter for 'check-up'SNOMED-CT 185349003
+          2013-07-05T13:11:44-04:002013-07-05T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2013-07-20T13:11:44-04:002013-07-20T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2014-07-11T13:11:44-04:002014-07-11T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2014-07-20T13:11:44-04:002014-07-20T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2015-07-17T13:11:44-04:002015-07-17T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2015-07-20T13:11:44-04:002015-07-20T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2016-07-22T13:11:44-04:002016-07-22T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2016-07-19T13:11:44-04:002016-07-19T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2017-07-19T13:11:44-04:002017-07-19T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2017-07-28T13:11:44-04:002017-07-28T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2018-07-19T13:11:44-04:002018-07-19T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2018-08-03T13:11:44-04:002018-08-03T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+          2019-07-19T13:11:44-04:002019-07-19T13:26:44-04:00Follow-up encounterSNOMED-CT 390906007
+          2019-08-09T13:11:44-04:002019-08-09T13:26:44-04:00General examination of patient (procedure)SNOMED-CT 162673000
+    Vital Signs
+        StartStopDescriptionCodeValue
+          2010-01-29T12:11:44-05:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2010-01-29T12:11:44-05:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-31.321641213700754 {score}
+          2010-01-29T12:11:44-05:00Body WeightLOINC 29463-797.90371640977098 kg
+          2010-01-29T12:11:44-05:00Body Mass IndexLOINC 39156-529.24424763997696 kg/m2
+          2010-01-29T12:11:44-05:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 76.59717802513565 mm[Hg]
+          Systolic Blood Pressure 129.617118961213 mm[Hg]
+          2010-01-29T12:11:44-05:00GlucoseLOINC 2339-071.7351635366763 mg/dL
+          2010-01-29T12:11:44-05:00Urea NitrogenLOINC 6299-215.470975585890598 mg/dL
+          2010-01-29T12:11:44-05:00CreatinineLOINC 38483-41.0465255888928011 mg/dL
+          2010-01-29T12:11:44-05:00CalciumLOINC 49765-18.961187167132636 mg/dL
+          2010-01-29T12:11:44-05:00SodiumLOINC 2947-0143.24206068334254 mmol/L
+          2010-01-29T12:11:44-05:00PotassiumLOINC 6298-44.73690789015671 mmol/L
+          2010-01-29T12:11:44-05:00ChlorideLOINC 2069-3103.76178521162348 mmol/L
+          2010-01-29T12:11:44-05:00Carbon DioxideLOINC 20565-821.006358414809934 mmol/L
+          2010-01-29T12:11:44-05:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2010-01-29T12:11:44-05:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-45.973276274047728 %
+          2010-06-18T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2010-06-18T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-32.6237206349972806 {score}
+          2010-06-18T13:11:44-04:00Body WeightLOINC 29463-798.83928096151078 kg
+          2010-06-18T13:11:44-04:00Body Mass IndexLOINC 39156-529.523704666099945 kg/m2
+          2010-06-18T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 74.46989501334413 mm[Hg]
+          Systolic Blood Pressure 125.94126917382165 mm[Hg]
+          2010-06-18T13:11:44-04:00GlucoseLOINC 2339-094.00984672861334 mg/dL
+          2010-06-18T13:11:44-04:00Urea NitrogenLOINC 6299-216.501409375255825 mg/dL
+          2010-06-18T13:11:44-04:00CreatinineLOINC 38483-41.0428097510803067 mg/dL
+          2010-06-18T13:11:44-04:00CalciumLOINC 49765-18.96628357079668 mg/dL
+          2010-06-18T13:11:44-04:00SodiumLOINC 2947-0139.98752806366102 mmol/L
+          2010-06-18T13:11:44-04:00PotassiumLOINC 6298-44.440772168256989 mmol/L
+          2010-06-18T13:11:44-04:00ChlorideLOINC 2069-3101.73397153213472 mmol/L
+          2010-06-18T13:11:44-04:00Carbon DioxideLOINC 20565-827.473325799324623 mmol/L
+          2010-06-18T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2010-06-18T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-45.976583966311887 %
+          2010-08-06T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2010-08-06T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-30.8509768644959741 {score}
+          2010-08-06T13:11:44-04:00Body WeightLOINC 29463-799.16672855461971 kg
+          2010-08-06T13:11:44-04:00Body Mass IndexLOINC 39156-529.62151462524299 kg/m2
+          2010-08-06T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 73.17505312936589 mm[Hg]
+          Systolic Blood Pressure 112.7036693349844 mm[Hg]
+          2010-08-06T13:11:44-04:00GlucoseLOINC 2339-079.95294372997806 mg/dL
+          2010-08-06T13:11:44-04:00Urea NitrogenLOINC 6299-27.59566715020403 mg/dL
+          2010-08-06T13:11:44-04:00CreatinineLOINC 38483-41.046266142340901 mg/dL
+          2010-08-06T13:11:44-04:00CalciumLOINC 49765-19.803399159175845 mg/dL
+          2010-08-06T13:11:44-04:00SodiumLOINC 2947-0136.89432543580648 mmol/L
+          2010-08-06T13:11:44-04:00PotassiumLOINC 6298-44.87434891079094 mmol/L
+          2010-08-06T13:11:44-04:00ChlorideLOINC 2069-3104.8759784064322 mmol/L
+          2010-08-06T13:11:44-04:00Carbon DioxideLOINC 20565-820.715871323031376 mmol/L
+          2010-08-06T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2010-08-06T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.332968880694217 %
+          2011-06-24T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2011-06-24T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-32.1544546745890876 {score}
+          2011-06-24T13:11:44-04:00Body WeightLOINC 29463-7101.1314141132733 kg
+          2011-06-24T13:11:44-04:00Body Mass IndexLOINC 39156-530.20837438010126 kg/m2
+          2011-06-24T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 72.73825904634796 mm[Hg]
+          Systolic Blood Pressure 131.1684065043001 mm[Hg]
+          2011-06-24T13:11:44-04:00GlucoseLOINC 2339-092.51200501745488 mg/dL
+          2011-06-24T13:11:44-04:00Urea NitrogenLOINC 6299-27.711128395504167 mg/dL
+          2011-06-24T13:11:44-04:00CreatinineLOINC 38483-41.0534522303465967 mg/dL
+          2011-06-24T13:11:44-04:00CalciumLOINC 49765-19.325846778828039 mg/dL
+          2011-06-24T13:11:44-04:00SodiumLOINC 2947-0139.8985124652959 mmol/L
+          2011-06-24T13:11:44-04:00PotassiumLOINC 6298-44.422790072944207 mmol/L
+          2011-06-24T13:11:44-04:00ChlorideLOINC 2069-3108.57006449697847 mmol/L
+          2011-06-24T13:11:44-04:00Carbon DioxideLOINC 20565-827.939831811766865 mmol/L
+          2011-06-24T13:11:44-04:00Total CholesterolLOINC 2093-3191.82749445749778 mg/dL
+          2011-06-24T13:11:44-04:00TriglyceridesLOINC 2571-8108.95578575077148 mg/dL
+          2011-06-24T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6101.44734116069338 mg/dL
+          2011-06-24T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-968.5889961466501 mg/dL
+          2011-06-24T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2011-06-24T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.090341463356806 %
+          2012-06-29T13:11:44-04:00Total CholesterolLOINC 2093-3233.23926071209937 mg/dL
+          2012-06-29T13:11:44-04:00TriglyceridesLOINC 2571-8386.4302069678494 mg/dL
+          2012-06-29T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6165.7393835171512 mg/dL
+          2012-06-29T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-925.01938018201397 mg/dL
+          2012-06-29T13:11:44-04:00GlucoseLOINC 2339-067.95116581050195 mg/dL
+          2012-06-29T13:11:44-04:00Urea NitrogenLOINC 6299-28.704244520859561 mg/dL
+          2012-06-29T13:11:44-04:00CreatinineLOINC 38483-42.711407496698242 mg/dL
+          2012-06-29T13:11:44-04:00CalciumLOINC 49765-19.669420644251824 mg/dL
+          2012-06-29T13:11:44-04:00SodiumLOINC 2947-0143.02129979093655 mmol/L
+          2012-06-29T13:11:44-04:00PotassiumLOINC 6298-45.146427885614614 mmol/L
+          2012-06-29T13:11:44-04:00ChlorideLOINC 2069-3105.24720465819713 mmol/L
+          2012-06-29T13:11:44-04:00Carbon DioxideLOINC 20565-827.668828748967297 mmol/L
+          2012-06-29T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-372.63020773993027 mL/min
+          2012-06-29T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-279.39526359329327 g/dL
+          2012-06-29T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-73.8265559998544427 g/dL
+          2012-06-29T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-02.4372487974195423 g/L
+          2012-06-29T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-21.1859129920456348 mg/dL
+          2012-06-29T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-6105.31170828837504 U/L
+          2012-06-29T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-640.73176407643025 U/L
+          2012-06-29T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-829.41411525197141 U/L
+          2012-06-29T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2012-06-29T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-32.125586022906041 {score}
+          2012-06-29T13:11:44-04:00Body WeightLOINC 29463-7101.1314141132733 kg
+          2012-06-29T13:11:44-04:00Body Mass IndexLOINC 39156-530.20837438010126 kg/m2
+          2012-06-29T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 73.21299705669438 mm[Hg]
+          Systolic Blood Pressure 118.9535953662002 mm[Hg]
+          2012-06-29T13:11:44-04:00GlucoseLOINC 2339-067.95116581050195 mg/dL
+          2012-06-29T13:11:44-04:00Urea NitrogenLOINC 6299-28.704244520859561 mg/dL
+          2012-06-29T13:11:44-04:00CreatinineLOINC 38483-41.0394062006086422 mg/dL
+          2012-06-29T13:11:44-04:00CalciumLOINC 49765-19.669420644251824 mg/dL
+          2012-06-29T13:11:44-04:00SodiumLOINC 2947-0143.02129979093655 mmol/L
+          2012-06-29T13:11:44-04:00PotassiumLOINC 6298-45.146427885614614 mmol/L
+          2012-06-29T13:11:44-04:00ChlorideLOINC 2069-3105.24720465819713 mmol/L
+          2012-06-29T13:11:44-04:00Carbon DioxideLOINC 20565-827.668828748967297 mmol/L
+          2012-06-29T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2012-06-29T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.046719900089984 %
+          2013-07-05T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2013-07-05T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-30.4811579305309976 {score}
+          2013-07-05T13:11:44-04:00Body WeightLOINC 29463-7101.1314141132733 kg
+          2013-07-05T13:11:44-04:00Body Mass IndexLOINC 39156-530.20837438010126 kg/m2
+          2013-07-05T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 82.34731718765768 mm[Hg]
+          Systolic Blood Pressure 136.409037522443 mm[Hg]
+          2013-07-05T13:11:44-04:00GlucoseLOINC 2339-084.10193274046358 mg/dL
+          2013-07-05T13:11:44-04:00Urea NitrogenLOINC 6299-27.830624419931198 mg/dL
+          2013-07-05T13:11:44-04:00CreatinineLOINC 38483-41.0253601708706876 mg/dL
+          2013-07-05T13:11:44-04:00CalciumLOINC 49765-19.317769729946024 mg/dL
+          2013-07-05T13:11:44-04:00SodiumLOINC 2947-0137.7015331183705 mmol/L
+          2013-07-05T13:11:44-04:00PotassiumLOINC 6298-44.641118592044908 mmol/L
+          2013-07-05T13:11:44-04:00ChlorideLOINC 2069-3105.03104247647587 mmol/L
+          2013-07-05T13:11:44-04:00Carbon DioxideLOINC 20565-821.117999399891364 mmol/L
+          2013-07-05T13:11:44-04:00Leukocytes [#/volume] in Blood by Automated countLOINC 6690-27.943164957621789 10*3/uL
+          2013-07-05T13:11:44-04:00Erythrocytes [#/volume] in Blood by Automated countLOINC 789-84.486758198591875 10*6/uL
+          2013-07-05T13:11:44-04:00Hemoglobin [Mass/volume] in BloodLOINC 718-714.880704756248013 g/dL
+          2013-07-05T13:11:44-04:00Hematocrit [Volume Fraction] of Blood by Automated countLOINC 4544-345.429254591866126 %
+          2013-07-05T13:11:44-04:00MCV [Entitic volume] by Automated countLOINC 787-292.118371827628 fL
+          2013-07-05T13:11:44-04:00MCH [Entitic mass] by Automated countLOINC 785-629.38732885366641 pg
+          2013-07-05T13:11:44-04:00MCHC [Mass/volume] by Automated countLOINC 786-434.24499051516925 g/dL
+          2013-07-05T13:11:44-04:00Erythrocyte distribution width [Entitic volume] by Automated countLOINC 21000-545.072772640786475 fL
+          2013-07-05T13:11:44-04:00Platelets [#/volume] in Blood by Automated countLOINC 777-3424.7646313667837 10*3/uL
+          2013-07-05T13:11:44-04:00Platelet distribution width [Entitic volume] in Blood by Automated countLOINC 32207-3416.7078425944516 fL
+          2013-07-05T13:11:44-04:00Platelet mean volume [Entitic volume] in Blood by Automated countLOINC 32623-110.562376459946092 fL
+          2013-07-05T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2013-07-05T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.056891072882707 %
+          2013-07-20T13:11:44-04:00GlucoseLOINC 2339-071.58164186086542 mg/dL
+          2013-07-20T13:11:44-04:00Urea NitrogenLOINC 6299-29.159256173144826 mg/dL
+          2013-07-20T13:11:44-04:00CreatinineLOINC 38483-42.6602781558977284 mg/dL
+          2013-07-20T13:11:44-04:00CalciumLOINC 49765-18.608517846432987 mg/dL
+          2013-07-20T13:11:44-04:00SodiumLOINC 2947-0142.68126604151095 mmol/L
+          2013-07-20T13:11:44-04:00PotassiumLOINC 6298-44.632318564502346 mmol/L
+          2013-07-20T13:11:44-04:00ChlorideLOINC 2069-3107.28358717432582 mmol/L
+          2013-07-20T13:11:44-04:00Carbon DioxideLOINC 20565-826.603088702539942 mmol/L
+          2013-07-20T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-388.333802003873 mL/min
+          2013-07-20T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-276.13558068881002 g/dL
+          2013-07-20T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-73.917959488957905 g/dL
+          2013-07-20T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-02.5519778177366224 g/L
+          2013-07-20T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.5851878888121873 mg/dL
+          2013-07-20T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-656.55421729503246 U/L
+          2013-07-20T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-626.356971653472083 U/L
+          2013-07-20T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-826.497681901230802 U/L
+          2013-07-20T13:11:44-04:00Total CholesterolLOINC 2093-3164.36238383878214 mg/dL
+          2013-07-20T13:11:44-04:00TriglyceridesLOINC 2571-8195.2502422991996 mg/dL
+          2013-07-20T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-694.71131330135475 mg/dL
+          2013-07-20T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-961.4806803851926 mg/dL
+          2014-07-11T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2014-07-11T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-33.5236192941879523 {score}
+          2014-07-11T13:11:44-04:00Body WeightLOINC 29463-7101.1314141132733 kg
+          2014-07-11T13:11:44-04:00Body Mass IndexLOINC 39156-530.20837438010126 kg/m2
+          2014-07-11T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 76.02945322253214 mm[Hg]
+          Systolic Blood Pressure 110.74895531092132 mm[Hg]
+          2014-07-11T13:11:44-04:00GlucoseLOINC 2339-092.51105221475858 mg/dL
+          2014-07-11T13:11:44-04:00Urea NitrogenLOINC 6299-28.623860244928782 mg/dL
+          2014-07-11T13:11:44-04:00CreatinineLOINC 38483-41.24725846058132 mg/dL
+          2014-07-11T13:11:44-04:00CalciumLOINC 49765-110.17979137137627 mg/dL
+          2014-07-11T13:11:44-04:00SodiumLOINC 2947-0136.57045782646688 mmol/L
+          2014-07-11T13:11:44-04:00PotassiumLOINC 6298-44.482830601686766 mmol/L
+          2014-07-11T13:11:44-04:00ChlorideLOINC 2069-3104.51613103901337 mmol/L
+          2014-07-11T13:11:44-04:00Carbon DioxideLOINC 20565-827.917248967137876 mmol/L
+          2014-07-11T13:11:44-04:00Total CholesterolLOINC 2093-3172.1010997282456 mg/dL
+          2014-07-11T13:11:44-04:00TriglyceridesLOINC 2571-8114.5467126365054 mg/dL
+          2014-07-11T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-683.62145396178515 mg/dL
+          2014-07-11T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-965.57030323915937 mg/dL
+          2014-07-11T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2014-07-11T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-45.884671812046598 %
+          2014-07-20T13:11:44-04:00GlucoseLOINC 2339-097.35042163984897 mg/dL
+          2014-07-20T13:11:44-04:00Urea NitrogenLOINC 6299-210.394901779904593 mg/dL
+          2014-07-20T13:11:44-04:00CreatinineLOINC 38483-43.1077901557998944 mg/dL
+          2014-07-20T13:11:44-04:00CalciumLOINC 49765-19.012787809453267 mg/dL
+          2014-07-20T13:11:44-04:00SodiumLOINC 2947-0141.44038851627707 mmol/L
+          2014-07-20T13:11:44-04:00PotassiumLOINC 6298-44.082254148976216 mmol/L
+          2014-07-20T13:11:44-04:00ChlorideLOINC 2069-3103.42698669333292 mmol/L
+          2014-07-20T13:11:44-04:00Carbon DioxideLOINC 20565-824.12600402160289 mmol/L
+          2014-07-20T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-381.10139865528598 mL/min
+          2014-07-20T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-273.10756160794475 g/dL
+          2014-07-20T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-74.722882260014814 g/dL
+          2014-07-20T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-03.049025495819192 g/L
+          2014-07-20T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.3220712779354126 mg/dL
+          2014-07-20T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-6134.894081320402 U/L
+          2014-07-20T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-643.53895868352882 U/L
+          2014-07-20T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-832.28433571722842 U/L
+          2014-07-20T13:11:44-04:00Total CholesterolLOINC 2093-3163.51846702875235 mg/dL
+          2014-07-20T13:11:44-04:00TriglyceridesLOINC 2571-8146.36245213713627 mg/dL
+          2014-07-20T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6108.56438994097476 mg/dL
+          2014-07-20T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-973.74678159227315 mg/dL
+          2015-07-17T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2015-07-17T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-30.1154878150001015 {score}
+          2015-07-17T13:11:44-04:00Body WeightLOINC 29463-7101.1314141132733 kg
+          2015-07-17T13:11:44-04:00Body Mass IndexLOINC 39156-530.20837438010126 kg/m2
+          2015-07-17T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 73.73826221120152 mm[Hg]
+          Systolic Blood Pressure 123.11917072515314 mm[Hg]
+          2015-07-17T13:11:44-04:00GlucoseLOINC 2339-067.26849748981653 mg/dL
+          2015-07-17T13:11:44-04:00Urea NitrogenLOINC 6299-211.658261504265013 mg/dL
+          2015-07-17T13:11:44-04:00CreatinineLOINC 38483-40.9972681113947783 mg/dL
+          2015-07-17T13:11:44-04:00CalciumLOINC 49765-19.622996888226497 mg/dL
+          2015-07-17T13:11:44-04:00SodiumLOINC 2947-0139.92223035912923 mmol/L
+          2015-07-17T13:11:44-04:00PotassiumLOINC 6298-45.077535185562731 mmol/L
+          2015-07-17T13:11:44-04:00ChlorideLOINC 2069-3108.37996031722821 mmol/L
+          2015-07-17T13:11:44-04:00Carbon DioxideLOINC 20565-824.082046136273462 mmol/L
+          2015-07-17T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2015-07-17T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.026828012985736 %
+          2015-07-20T13:11:44-04:00GlucoseLOINC 2339-090.09833782711682 mg/dL
+          2015-07-20T13:11:44-04:00Urea NitrogenLOINC 6299-214.36218994337866 mg/dL
+          2015-07-20T13:11:44-04:00CreatinineLOINC 38483-42.825130515768389 mg/dL
+          2015-07-20T13:11:44-04:00CalciumLOINC 49765-18.547838154788671 mg/dL
+          2015-07-20T13:11:44-04:00SodiumLOINC 2947-0136.9948910358225 mmol/L
+          2015-07-20T13:11:44-04:00PotassiumLOINC 6298-44.841252767145535 mmol/L
+          2015-07-20T13:11:44-04:00ChlorideLOINC 2069-3101.56321544064437 mmol/L
+          2015-07-20T13:11:44-04:00Carbon DioxideLOINC 20565-823.435234210198253 mmol/L
+          2015-07-20T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-370.24184574061285 mL/min
+          2015-07-20T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-273.44582237707763 g/dL
+          2015-07-20T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-74.6782335357941065 g/dL
+          2015-07-20T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-02.2513915533464863 g/L
+          2015-07-20T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.8793123323455339 mg/dL
+          2015-07-20T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-620.935922887192582 U/L
+          2015-07-20T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-654.93979872326018 U/L
+          2015-07-20T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-822.553097557064497 U/L
+          2015-07-20T13:11:44-04:00Total CholesterolLOINC 2093-3207.44588539752846 mg/dL
+          2015-07-20T13:11:44-04:00TriglyceridesLOINC 2571-8107.74526148785422 mg/dL
+          2015-07-20T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6124.27120749340818 mg/dL
+          2015-07-20T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-945.262956182937124 mg/dL
+          2016-07-19T13:11:44-04:00GlucoseLOINC 2339-090.61244529327394 mg/dL
+          2016-07-19T13:11:44-04:00Urea NitrogenLOINC 6299-215.00143704310441 mg/dL
+          2016-07-19T13:11:44-04:00CreatinineLOINC 38483-43.2794101629125967 mg/dL
+          2016-07-19T13:11:44-04:00CalciumLOINC 49765-18.558641623339408 mg/dL
+          2016-07-19T13:11:44-04:00SodiumLOINC 2947-0142.93342262500565 mmol/L
+          2016-07-19T13:11:44-04:00PotassiumLOINC 6298-44.48104788566631 mmol/L
+          2016-07-19T13:11:44-04:00ChlorideLOINC 2069-3102.5009119147899 mmol/L
+          2016-07-19T13:11:44-04:00Carbon DioxideLOINC 20565-822.540257631546893 mmol/L
+          2016-07-19T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-380.1707662420127 mL/min
+          2016-07-19T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-276.7305625054087 g/dL
+          2016-07-19T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-73.9719833799328605 g/dL
+          2016-07-19T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-03.47900250466571 g/L
+          2016-07-19T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.5563864080568081 mg/dL
+          2016-07-19T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-644.033274357614836 U/L
+          2016-07-19T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-639.3014957047541 U/L
+          2016-07-19T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-813.092511323855156 U/L
+          2016-07-19T13:11:44-04:00Total CholesterolLOINC 2093-3174.78305039123208 mg/dL
+          2016-07-19T13:11:44-04:00TriglyceridesLOINC 2571-8125.04937400704037 mg/dL
+          2016-07-19T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6130.25611110896187 mg/dL
+          2016-07-19T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-934.82872522472934 mg/dL
+          2016-07-22T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2016-07-22T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-33.2207634071982767 {score}
+          2016-07-22T13:11:44-04:00Body WeightLOINC 29463-7101.1314141132733 kg
+          2016-07-22T13:11:44-04:00Body Mass IndexLOINC 39156-530.20837438010126 kg/m2
+          2016-07-22T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 87.9108864743733 mm[Hg]
+          Systolic Blood Pressure 119.76877759050828 mm[Hg]
+          2016-07-22T13:11:44-04:00GlucoseLOINC 2339-090.61244529327394 mg/dL
+          2016-07-22T13:11:44-04:00Urea NitrogenLOINC 6299-215.00143704310441 mg/dL
+          2016-07-22T13:11:44-04:00CreatinineLOINC 38483-41.1792019252436339 mg/dL
+          2016-07-22T13:11:44-04:00CalciumLOINC 49765-18.558641623339408 mg/dL
+          2016-07-22T13:11:44-04:00SodiumLOINC 2947-0142.93342262500565 mmol/L
+          2016-07-22T13:11:44-04:00PotassiumLOINC 6298-44.48104788566631 mmol/L
+          2016-07-22T13:11:44-04:00ChlorideLOINC 2069-3102.5009119147899 mmol/L
+          2016-07-22T13:11:44-04:00Carbon DioxideLOINC 20565-822.540257631546893 mmol/L
+          2016-07-22T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2016-07-22T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.076723907148327 %
+          2017-07-19T13:11:44-04:00GlucoseLOINC 2339-066.38030126136093 mg/dL
+          2017-07-19T13:11:44-04:00Urea NitrogenLOINC 6299-29.295451440441916 mg/dL
+          2017-07-19T13:11:44-04:00CreatinineLOINC 38483-42.610955030914999 mg/dL
+          2017-07-19T13:11:44-04:00CalciumLOINC 49765-110.157190443312873 mg/dL
+          2017-07-19T13:11:44-04:00SodiumLOINC 2947-0143.9644478306847 mmol/L
+          2017-07-19T13:11:44-04:00PotassiumLOINC 6298-44.465571877054984 mmol/L
+          2017-07-19T13:11:44-04:00ChlorideLOINC 2069-3102.13321765310043 mmol/L
+          2017-07-19T13:11:44-04:00Carbon DioxideLOINC 20565-821.02903652371126 mmol/L
+          2017-07-19T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-377.96661085590249 mL/min
+          2017-07-19T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-272.48964376744132 g/dL
+          2017-07-19T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-74.235854861720107 g/dL
+          2017-07-19T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-02.2356101817539926 g/L
+          2017-07-19T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.1013611948132448 mg/dL
+          2017-07-19T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-6139.12981280411455 U/L
+          2017-07-19T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-646.10173586261901 U/L
+          2017-07-19T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-838.60475074355671 U/L
+          2017-07-19T13:11:44-04:00Total CholesterolLOINC 2093-3204.98873508839725 mg/dL
+          2017-07-19T13:11:44-04:00TriglyceridesLOINC 2571-8104.9217542111593 mg/dL
+          2017-07-19T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6109.12498263285423 mg/dL
+          2017-07-19T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-977.95061585736482 mg/dL
+          2017-07-28T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2017-07-28T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-32.065341994214576 {score}
+          2017-07-28T13:11:44-04:00Body WeightLOINC 29463-791.76440767795724 kg
+          2017-07-28T13:11:44-04:00Body Mass IndexLOINC 39156-527.41041056539666 kg/m2
+          2017-07-28T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 86.1172656411946 mm[Hg]
+          Systolic Blood Pressure 106.2391632854966 mm[Hg]
+          2017-07-28T13:11:44-04:00GlucoseLOINC 2339-090.62226974349366 mg/dL
+          2017-07-28T13:11:44-04:00Urea NitrogenLOINC 6299-216.78469850924545 mg/dL
+          2017-07-28T13:11:44-04:00CreatinineLOINC 38483-40.8794089069137568 mg/dL
+          2017-07-28T13:11:44-04:00CalciumLOINC 49765-19.584061854856749 mg/dL
+          2017-07-28T13:11:44-04:00SodiumLOINC 2947-0143.3558230309498 mmol/L
+          2017-07-28T13:11:44-04:00PotassiumLOINC 6298-44.4639110513072975 mmol/L
+          2017-07-28T13:11:44-04:00ChlorideLOINC 2069-3104.09045356576024 mmol/L
+          2017-07-28T13:11:44-04:00Carbon DioxideLOINC 20565-827.64610437485318 mmol/L
+          2017-07-28T13:11:44-04:00Total CholesterolLOINC 2093-3168.80783143678767 mg/dL
+          2017-07-28T13:11:44-04:00TriglyceridesLOINC 2571-8140.86213176323838 mg/dL
+          2017-07-28T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-671.85862816357445 mg/dL
+          2017-07-28T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-968.77677692056554 mg/dL
+          2017-07-28T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2017-07-28T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-45.985511457003873 %
+          2018-07-19T13:11:44-04:00GlucoseLOINC 2339-086.90894500398576 mg/dL
+          2018-07-19T13:11:44-04:00Urea NitrogenLOINC 6299-214.945620730059158 mg/dL
+          2018-07-19T13:11:44-04:00CreatinineLOINC 38483-43.167465315590861 mg/dL
+          2018-07-19T13:11:44-04:00CalciumLOINC 49765-18.674614248720866 mg/dL
+          2018-07-19T13:11:44-04:00SodiumLOINC 2947-0138.39455303202942 mmol/L
+          2018-07-19T13:11:44-04:00PotassiumLOINC 6298-43.765187793730468 mmol/L
+          2018-07-19T13:11:44-04:00ChlorideLOINC 2069-3107.29410250829754 mmol/L
+          2018-07-19T13:11:44-04:00Carbon DioxideLOINC 20565-824.065197058557096 mmol/L
+          2018-07-19T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-377.78241173458972 mL/min
+          2018-07-19T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-267.60692800381631 g/dL
+          2018-07-19T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-74.27304329077973 g/dL
+          2018-07-19T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-02.2433022645293703 g/L
+          2018-07-19T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.892653295675602 mg/dL
+          2018-07-19T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-656.409212721091734 U/L
+          2018-07-19T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-658.81881378677116 U/L
+          2018-07-19T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-824.007893373237916 U/L
+          2018-07-19T13:11:44-04:00Total CholesterolLOINC 2093-3162.36997824171016 mg/dL
+          2018-07-19T13:11:44-04:00TriglyceridesLOINC 2571-8199.52830082609046 mg/dL
+          2018-07-19T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6108.9798461017497 mg/dL
+          2018-07-19T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-961.66302405491609 mg/dL
+          2018-08-03T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2018-08-03T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-30.4721650090715843 {score}
+          2018-08-03T13:11:44-04:00Body WeightLOINC 29463-791.76440767795724 kg
+          2018-08-03T13:11:44-04:00Body Mass IndexLOINC 39156-527.41041056539666 kg/m2
+          2018-08-03T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 84.40528194865075 mm[Hg]
+          Systolic Blood Pressure 110.82862224524494 mm[Hg]
+          2018-08-03T13:11:44-04:00GlucoseLOINC 2339-065.41287897822933 mg/dL
+          2018-08-03T13:11:44-04:00Urea NitrogenLOINC 6299-213.709510432351738 mg/dL
+          2018-08-03T13:11:44-04:00CreatinineLOINC 38483-40.8666638502918184 mg/dL
+          2018-08-03T13:11:44-04:00CalciumLOINC 49765-18.829365847685516 mg/dL
+          2018-08-03T13:11:44-04:00SodiumLOINC 2947-0142.45948495041975 mmol/L
+          2018-08-03T13:11:44-04:00PotassiumLOINC 6298-44.70776195832021 mmol/L
+          2018-08-03T13:11:44-04:00ChlorideLOINC 2069-3102.60779590166102 mmol/L
+          2018-08-03T13:11:44-04:00Carbon DioxideLOINC 20565-820.049063716890057 mmol/L
+          2018-08-03T13:11:44-04:00Leukocytes [#/volume] in Blood by Automated countLOINC 6690-24.494473948562568 10*3/uL
+          2018-08-03T13:11:44-04:00Erythrocytes [#/volume] in Blood by Automated countLOINC 789-84.1613886371530695 10*6/uL
+          2018-08-03T13:11:44-04:00Hemoglobin [Mass/volume] in BloodLOINC 718-715.192781313740216 g/dL
+          2018-08-03T13:11:44-04:00Hematocrit [Volume Fraction] of Blood by Automated countLOINC 4544-345.2389519969802 %
+          2018-08-03T13:11:44-04:00MCV [Entitic volume] by Automated countLOINC 787-282.61495821432938 fL
+          2018-08-03T13:11:44-04:00MCH [Entitic mass] by Automated countLOINC 785-627.864877789719717 pg
+          2018-08-03T13:11:44-04:00MCHC [Mass/volume] by Automated countLOINC 786-435.188615283038814 g/dL
+          2018-08-03T13:11:44-04:00Erythrocyte distribution width [Entitic volume] by Automated countLOINC 21000-544.44834013196876 fL
+          2018-08-03T13:11:44-04:00Platelets [#/volume] in Blood by Automated countLOINC 777-3168.6577909678569 10*3/uL
+          2018-08-03T13:11:44-04:00Platelet distribution width [Entitic volume] in Blood by Automated countLOINC 32207-3445.1960871451306 fL
+          2018-08-03T13:11:44-04:00Platelet mean volume [Entitic volume] in Blood by Automated countLOINC 32623-110.039958763409606 fL
+          2018-08-03T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2018-08-03T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.3002760605825445 %
+          2019-07-19T13:11:44-04:00GlucoseLOINC 2339-069.88212764550103 mg/dL
+          2019-07-19T13:11:44-04:00Urea NitrogenLOINC 6299-211.943596351785068 mg/dL
+          2019-07-19T13:11:44-04:00CreatinineLOINC 38483-42.8419591697249222 mg/dL
+          2019-07-19T13:11:44-04:00CalciumLOINC 49765-18.726754666445492 mg/dL
+          2019-07-19T13:11:44-04:00SodiumLOINC 2947-0139.62825473176642 mmol/L
+          2019-07-19T13:11:44-04:00PotassiumLOINC 6298-43.9112622252148093 mmol/L
+          2019-07-19T13:11:44-04:00ChlorideLOINC 2069-3110.73013668990717 mmol/L
+          2019-07-19T13:11:44-04:00Carbon DioxideLOINC 20565-825.687226203534387 mmol/L
+          2019-07-19T13:11:44-04:00Glomerular filtration rate/1.73 sq M.predictedLOINC 33914-370.53596272602572 mL/min
+          2019-07-19T13:11:44-04:00Protein [Mass/volume] in Serum or PlasmaLOINC 2885-276.00674383589119 g/dL
+          2019-07-19T13:11:44-04:00Albumin [Mass/volume] in Serum or PlasmaLOINC 1751-75.29218231886755 g/dL
+          2019-07-19T13:11:44-04:00Globulin [Mass/volume] in Serum by calculationLOINC 10834-02.567183768999906 g/L
+          2019-07-19T13:11:44-04:00Bilirubin.total [Mass/volume] in Serum or PlasmaLOINC 1975-20.8024931093928336 mg/dL
+          2019-07-19T13:11:44-04:00Alkaline phosphatase [Enzymatic activity/volume] in Serum or PlasmaLOINC 6768-662.23812177121181 U/L
+          2019-07-19T13:11:44-04:00Alanine aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1742-646.69800596071349 U/L
+          2019-07-19T13:11:44-04:00Aspartate aminotransferase [Enzymatic activity/volume] in Serum or PlasmaLOINC 1920-830.02978351969 U/L
+          2019-07-19T13:11:44-04:00Total CholesterolLOINC 2093-3164.76705802819248 mg/dL
+          2019-07-19T13:11:44-04:00TriglyceridesLOINC 2571-8181.6707916043244 mg/dL
+          2019-07-19T13:11:44-04:00Low Density Lipoprotein CholesterolLOINC 18262-6125.98225250253928 mg/dL
+          2019-07-19T13:11:44-04:00High Density Lipoprotein CholesterolLOINC 2085-937.23611405535218 mg/dL
+          2019-08-09T13:11:44-04:00Body HeightLOINC 8302-2182.96977857602644 cm
+          2019-08-09T13:11:44-04:00Pain severity - 0-10 verbal numeric rating [Score] - ReportedLOINC 72514-32.391564404630398 {score}
+          2019-08-09T13:11:44-04:00Body WeightLOINC 29463-791.76440767795724 kg
+          2019-08-09T13:11:44-04:00Body Mass IndexLOINC 39156-527.41041056539666 kg/m2
+          2019-08-09T13:11:44-04:00Blood PressureLOINC 55284-4
+          Diastolic Blood Pressure 83.81951714702694 mm[Hg]
+          Systolic Blood Pressure 116.5940058450686 mm[Hg]
+          2019-08-09T13:11:44-04:00GlucoseLOINC 2339-084.83896772277996 mg/dL
+          2019-08-09T13:11:44-04:00Urea NitrogenLOINC 6299-210.788135044301503 mg/dL
+          2019-08-09T13:11:44-04:00CreatinineLOINC 38483-40.8539187936698799 mg/dL
+          2019-08-09T13:11:44-04:00CalciumLOINC 49765-19.773930181066307 mg/dL
+          2019-08-09T13:11:44-04:00SodiumLOINC 2947-0136.01265183228733 mmol/L
+          2019-08-09T13:11:44-04:00PotassiumLOINC 6298-45.013199572772146 mmol/L
+          2019-08-09T13:11:44-04:00ChlorideLOINC 2069-3107.91936675218703 mmol/L
+          2019-08-09T13:11:44-04:00Carbon DioxideLOINC 20565-824.889673757684083 mmol/L
+          2019-08-09T13:11:44-04:00Tobacco smoking status NHISLOINC 72166-2SNOMED-CT 266919005 Never smoker 
+          2019-08-09T13:11:44-04:00Hemoglobin A1c/Hemoglobin.total in BloodLOINC 4548-46.360925007682929 %         
+              SNOMED-CT 266919005 Never smoker
+              SNOMED-CT 266919005 Never smoker
+              SNOMED-CT 266919005 Never smoker
+              SNOMED-CT 266919005 Never smoker
+              SNOMED-CT 266919005 Never smoker         
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              
+          
+            
+          
+              SNOMED-CT 266919005 Never smoker
+          
+            
+          
+              
+  
+  
+    Immunizations
+  
+    
+      
+        StartStopDescriptionCode
+        
+          2010-01-29T12:11:44-05:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2011-06-24T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2011-06-24T13:11:44-04:00Pneumococcal conjugate PCV 13http://hl7.org/fhir/sid/cvx 133
+          2012-02-03T12:11:44-05:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2012-06-29T13:11:44-04:00pneumococcal polysaccharide vaccine, 23 valenthttp://hl7.org/fhir/sid/cvx 33
+          2013-07-05T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2014-07-11T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2015-07-17T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2016-07-22T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2017-07-28T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2017-07-28T13:11:44-04:00Td (adult) preservative freehttp://hl7.org/fhir/sid/cvx 113
+          2018-08-03T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+          2019-08-09T13:11:44-04:00Influenza, seasonal, injectable, preservative freehttp://hl7.org/fhir/sid/cvx 140
+      
+        
+          
+          
+            
+        
+          Influenza, seasonal, injectable, preservative free
+      
+        
+          
+          
+            
+        
+          Influenza, seasonal, injectable, preservative free
+      
+        
+          
+          
+            
+        
+          Pneumococcal conjugate PCV 13
+      
+        
+          
+          
+            
+        
+          Influenza, seasonal, injectable, preservative free
+      
+        
+          
+          
+            
+        
+          pneumococcal polysaccharide vaccine, 23 valent
+      
+        
+          
+          
+            
+        
+          Influenza, seasonal, injectable, preservative free
+          Influenza, seasonal, injectable, preservative free
+          Influenza, seasonal, injectable, preservative free
+          Influenza, seasonal, injectable, preservative free
+          Influenza, seasonal, injectable, preservative free
+          Td (adult) preservative free
+          Influenza, seasonal, injectable, preservative free
+          Influenza, seasonal, injectable, preservative free
+    Plan of Care
+        StartStopDescriptionCode
+          1974-06-07T13:11:44-04:00Diabetes self management planSNOMED-CT 698360004
+          2010-07-27T13:11:44-04:002010-08-03T13:11:44-04:00Respiratory therapySNOMED-CT 53950000
+          2012-01-26T12:11:44-05:002012-06-29T13:11:44-04:00Respiratory therapySNOMED-CT 53950000
+          2012-07-20T13:11:44-04:00Hyperlipidemia clinical management planSNOMED-CT 736285004
+          2013-04-27T13:11:44-04:002013-05-27T13:11:44-04:00Physical therapy procedureSNOMED-CT 91251008
+    Imaging StudiesThere are no current imaging studies at the time of this document's creation.
+    Social HistoryThere is no current social history at the time of this document's creation.
