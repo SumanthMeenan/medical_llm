@@ -1,36 +1,14 @@
-
   C-CDA R2.1 Patient Record: Aaron697 Stiedemann542
-    
-      
         378 Krajcik LodgeWestfordMassachusetts
-        
           Aaron697Stiedemann542
-          
-    
-      
         https://github.com/synthetichealth/syntheahttps://github.com/synthetichealth/synthea
         PCP218528
           35 A VILLAGE SQCHELMSFORDMA01824-2712
-    
-      
         PCP218528
           35 A VILLAGE SQCHELMSFORDMA01824-2712
-    
-      
-        
-    
-
-  
-  
     AllergiesThere are no current allergies at the time of this document's creation.
-  
-  
 	Medications
-  
-    
-      
         StartStopDescriptionCode
-        
           2010-07-27T13:11:44-04:002010-08-03T13:11:44-04:00Acetaminophen 325 MG Oral TabletRxNorm 313782
           2012-01-26T12:11:44-05:002012-02-02T12:11:44-05:00Acetaminophen 325 MG Oral TabletRxNorm 313782
           2012-07-20T13:11:44-04:002019-07-19T13:11:44-04:00Simvistatin 10 MGRxNorm 316672
